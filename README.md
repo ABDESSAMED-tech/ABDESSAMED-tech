@@ -21,16 +21,7 @@
   <img src="https://skillicons.dev/icons?i=laravel,vue,python,js,php,mysql,html,css,git,github" />
 </p>
 
----
 
-### 🖼️ A Glimpse of What Inspires Me
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/06/06/22/16/artificial-intelligence-2371456_1280.jpg" width="400" alt="AI Concept" />
-  <img src="https://cdn.pixabay.com/photo/2020/02/14/13/16/artificial-intelligence-4846062_1280.jpg" width="400" alt="Technology Visualization" />
-</p>
-
----
 
 
 
