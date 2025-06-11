@@ -32,10 +32,5 @@
 
 ---
 
-### ☕ Support My Work
-
-<a href="https://ko-fi.com/abdessamed91297" target="_blank">
-  <img height="40" src="https://storage.ko-fi.com/cdn/kofi4.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
-</a>
 
 
